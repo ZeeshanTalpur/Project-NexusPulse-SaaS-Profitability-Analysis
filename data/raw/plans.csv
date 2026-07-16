@@ -1,0 +1,13 @@
+PlanID,PlanName,MonthlyPrice,BillingCycle,APIQuota,StorageLimitGB,AIRequests,SupportTier
+1,Starter,29,Monthly,10000,25,500,Community
+2,Basic,59,Monthly,50000,100,2500,Email
+3,Professional,129,Monthly,100000,250,10000,Priority Email
+4,Business,249,Monthly,250000,500,30000,Priority
+5,Enterprise,499,Monthly,500000,1000,100000,Dedicated
+6,Enterprise Plus,999,Monthly,1000000,5000,500000,Enterprise
+7,Startup,39,Yearly,25000,50,1000,Email
+8,Growth,79,Yearly,75000,150,5000,Priority Email
+9,Scale,179,Yearly,150000,500,20000,Priority
+10,Corporate,349,Yearly,350000,1500,60000,Dedicated
+11,Ultimate,1499,Yearly,2500000,10000,1000000,Enterprise
+12,Legacy,199,Legacy,80000,200,8000,Legacy
